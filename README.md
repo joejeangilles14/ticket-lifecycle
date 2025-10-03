@@ -73,50 +73,45 @@ Successfully logged in as John and received the ticket request. Click on the tic
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/e98208be-aedb-449e-a943-d7e6e75ee0fb" />
+<img src="https://github.com/user-attachments/assets/717ee918-8895-438b-b4cb-916e9c6100d9" />
 </p>
 <p>
-Back in the admin user, update John Doe's access to "All Access" in order to make changes on the ticket.
+Click on SLA plan and change to Sev-A along a reason for SLA change and update.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/937cb790-71d9-4aa1-a338-0b1545aefcca" />
+<img src="https://github.com/user-attachments/assets/d2cd2f9d-c646-4acc-aeb0-754268485564" />
 </p>
 <p>
-Within the ticket, navigate to "Assign to", select John Dpoe as the assignee and click "Assign".
+Change the Help topic to Business Critical along with a reason for the change and update.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/0aee7db9-d950-4a99-bb58-5e5f060df316" />
+<img src="https://github.com/user-attachments/assets/6672e23a-b65e-4ff4-8855-dc529227edce" />
 </p>
 <p>
-The ticket was successfully assigned to John.
+Notice that changes have been updated.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/9bd8306d-0398-4026-97cd-db655e1e5f57" />
+<img src="https://github.com/user-attachments/assets/2b598781-d52f-421f-8c46-3f12a508fb85" />
 </p>
 <p>
-Cick on the SLA plan and change it to Sev-A. Write a reason for the SLA change and update. 
-</p>
-
-<p>
-<img src="https://github.com/user-attachments/assets/5ead1627-a772-49f6-bd94-2e872a78f3e6" />
-</p>
-<p>
-Change the Help Topic to Business Critical along with a reason for the change and update.
+I logged back in as an admin to update the Online Banking Team by adding John and Jane.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/7c9454a4-8357-487e-9676-c9271009a158" />
+<img src="https://github.com/user-attachments/assets/7092b013-60d4-4f22-ab2d-532a8aa1da81" />
 </p>
 <p>
-Notice that the changes have been updated.
+Logged back in as John and assigned ticket to Online Banking team with added reason.
 </p>
+<br />
+
 
 <p>
 
@@ -124,3 +119,4 @@ Notice that the changes have been updated.
 <p>
 
 </p>
+<br />
