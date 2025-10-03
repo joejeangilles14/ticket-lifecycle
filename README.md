@@ -73,9 +73,54 @@ Successfully logged in as John and received the ticket request. Click on the tic
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/7c6de9fa-a6b7-4cd1-b807-b78b93674a76" />
+<img src="https://github.com/user-attachments/assets/e98208be-aedb-449e-a943-d7e6e75ee0fb" />
 </p>
 <p>
-Under the Tickets tab, navigate to "My Tickets" and click "Assign to Me".
+Back in the admin user, update John Doe's access to "All Access" in order to make changes on the ticket.
 </p>
 <br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/937cb790-71d9-4aa1-a338-0b1545aefcca" />
+</p>
+<p>
+Within the ticket, navigate to "Assign to", select John Dpoe as the assignee and click "Assign".
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/0aee7db9-d950-4a99-bb58-5e5f060df316" />
+</p>
+<p>
+The ticket was successfully assigned to John.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/9bd8306d-0398-4026-97cd-db655e1e5f57" />
+</p>
+<p>
+Cick on the SLA plan and change it to Sev-A. Write a reason for the SLA change and update. 
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5ead1627-a772-49f6-bd94-2e872a78f3e6" />
+</p>
+<p>
+Change the Help Topic to Business Critical along with a reason for the change and update.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/7c9454a4-8357-487e-9676-c9271009a158" />
+</p>
+<p>
+Notice that the changes have been updated.
+</p>
+
+<p>
+
+</p>
+<p>
+
+</p>
