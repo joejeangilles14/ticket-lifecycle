@@ -114,7 +114,37 @@ Logged back in as John and assigned ticket to Online Banking team with added rea
 
 
 <p>
+<img src="https://github.com/user-attachments/assets/411c1711-5624-41d6-98e1-24987a6bec05" />
+<img src="https://github.com/user-attachments/assets/981f8b99-cbfd-4612-aa5b-64972574d92d" />
+<img src="https://github.com/user-attachments/assets/f6b9567d-b67d-4730-8d40-3ee511b445a9" />
+</p>
+<p>
+Log out of John and log back in as Jane to complete the ticket.
+</p>
+<br />
 
+<p>
+<img src="https://github.com/user-attachments/assets/411c1711-5624-41d6-98e1-24987a6bec05" />
+<img src="https://github.com/user-attachments/assets/981f8b99-cbfd-4612-aa5b-64972574d92d" />
+<img src="https://github.com/user-attachments/assets/f6b9567d-b67d-4730-8d40-3ee511b445a9" />
+</p>
+<p>
+Logged in as Jane, Click on the ticket to open it up.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/1f117a7d-b42b-4548-a52c-4ceae5d915e9" />
+<img src="https://github.com/user-attachments/assets/295e5cbb-1b6b-452a-926e-27d88f8bf11c" />
+</p>
+<p>
+Ticket is resolved and closed.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/1f117a7d-b42b-4548-a52c-4ceae5d915e9" />
 </p>
 <p>
 
