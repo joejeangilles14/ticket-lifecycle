@@ -147,9 +147,18 @@ Ticket is resolved and closed. there are no open tickets after completion.
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/1f117a7d-b42b-4548-a52c-4ceae5d915e9" />
+<img src="https://github.com/user-attachments/assets/9a82f6ad-c928-40a5-82cb-8318613e933f" />
+<img src="https://github.com/user-attachments/assets/6a27adfa-d5fd-405b-b485-c33e730ab78e" />
 </p>
 <p>
+Log in as an admin, go to Tickets tab and click on today. Observe the recently closed ticket.
+</p>
+<br />
 
+<p>
+<img src="https://github.com/user-attachments/assets/b4441c05-0768-4fee-bf0c-030dcc29853c" />
+</p>
+<p>
+To conclude this lab, notice that the ticket was closed by Jane.
 </p>
 <br />
